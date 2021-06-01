@@ -71,6 +71,7 @@ pub const MONITORED_DISTRICTS: [(u16, &str); 83] = [
     (281, "Uttar Kannada"),
     (286, "Udupi"),
     (294, "BBMP"),
+    (274,"Bellary")
     (296, "Thiruvananthapuram"),
     (297, "Kannur"),
     (300, "Pathanamthitta"),
